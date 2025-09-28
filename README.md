@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbas-ahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="abbas-ahmad1" /> </p>
 
-- 🌱 I’m currently learning **Python, Java, Nood.js, React, & JavaScript.**
+- 🌱 I’m currently learning **Python, Java. **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abbas-Ahmad1](https://github.com/Abbas-Ahmad1)
 
